@@ -73,6 +73,7 @@ a {
   /*https://lcroswell.files.wordpress.com/2010/05/coolpix-198.jpg*/
 
   /*https://i.ytimg.com/vi/2u2Dggrb6dE/maxresdefault.jpg*/
+  background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: 100%;
@@ -127,7 +128,7 @@ a {
 button {
     background-color: #4CAF50;
     border: none;
-    color: white;
+    color: #ffffff;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
